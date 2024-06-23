@@ -226,19 +226,24 @@ body{
 }
 
 .a1{
-    color: black;
+    background-color: rgb(255, 217, 0);
+    color: green;
+
+    height: 700px;
 }
 
 .a2{
     background-color: silver;
+    color: brown;
 }
 
 .a3{
-    background-color: brown;
+    background-color: rgb(209, 37, 37);
+    color: antiquewhite;
 }
 
 .a4{
-    background-color: orange;
+    background-color: yellow;
 }
 
 .a5{
